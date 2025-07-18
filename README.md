@@ -69,8 +69,6 @@ This project delivers a **web-based PDF Reader** powered by **LLaMA 2 7B** and *
      ```
 
 
-```
-
 ## Future Enhancements
 - Add **user authentication**
 - Support for **multi-document querying**
